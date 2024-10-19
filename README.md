@@ -4,6 +4,6 @@ If the visitor enters “Admin”, prompt asks for a password, if nothing is ent
 
 Password verification:
 
-If the password “Boss” is entered, then output “Hello!”,
-Otherwise - “Invalid password”,
-If canceled or if nothing is entered - “Aborted”.
+1. If the password “Boss” is entered, then output “Hello!”,
+2. Otherwise - “Invalid password”,
+3. If canceled or if nothing is entered - “Aborted”.
